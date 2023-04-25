@@ -1,0 +1,9 @@
+{
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "lang": "en",
+  "name": "chef-friend",
+  "short_name": "chef-friend",
+  "start_url": "/?utm_source=web_app_manifest",
+  "orientation": "portrait"
+}

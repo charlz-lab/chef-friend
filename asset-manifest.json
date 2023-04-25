@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/chef-friend/static/js/main.93204ef3.js",
+    "static/js/78.db39aa5f.js": "/chef-friend/static/js/78.db39aa5f.js",
+    "favicon.ico": "/chef-friend/favicon.ico",
+    "index.html": "/chef-friend/index.html",
+    "favicon-32.png": "/chef-friend/favicon-32.png",
+    "favicon-16.png": "/chef-friend/favicon-16.png",
+    "manifest.json": "/chef-friend/manifest.json",
+    "serve.json": "/chef-friend/serve.json",
+    "main.93204ef3.js.map": "/chef-friend/static/js/main.93204ef3.js.map",
+    "78.db39aa5f.js.map": "/chef-friend/static/js/78.db39aa5f.js.map"
+  },
+  "entrypoints": [
+    "static/js/78.db39aa5f.js",
+    "static/js/main.93204ef3.js"
+  ]
+}
